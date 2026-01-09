@@ -81,7 +81,7 @@ main h1 {
   border-radius: 8px;
   background-color: var(--white);
   overflow: hidden;
-  height: fit-content;
+  height: 100%;
 }
 
 .card h2 {
