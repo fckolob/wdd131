@@ -23,14 +23,17 @@ body {
 header {
   font-family: 'Cinzel', serif;
   background-color: var(--primary-color);
-  padding: 1.5rem 1rem;
+  padding: 1.5rem 1rem 0;
   text-align: center;
   color: var(--white);
+  display: flex;
+  flex-direction: column;
 }
 
 header h1, #course-title {
   font-size: 1.5rem;
   font-weight: 500;
+  margin-bottom: 1rem;
 }
 
 nav {
