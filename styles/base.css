@@ -40,6 +40,7 @@ nav {
   font-family: 'Cinzel', serif;
   background-color: var(--secondary-color);
   color: var(--white);
+  margin: 0 -1rem;
 }
 
 .navigation {
@@ -48,8 +49,7 @@ nav {
   justify-content: center;
   gap: 2rem;
   padding: 0.5rem;
-  max-width: 1000px;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .navigation a {
